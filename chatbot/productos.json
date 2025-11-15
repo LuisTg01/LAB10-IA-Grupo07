@@ -1,0 +1,17 @@
+[
+  {"id": 1, "nombre": "Laptop Lenovo i5", "precio": 2500, "stock": 10},
+  {"id": 2, "nombre": "Mouse Gamer RGB", "precio": 80, "stock": 30},
+  {"id": 3, "nombre": "Audífonos Sony WH-CH520", "precio": 220, "stock": 15},
+  {"id": 4, "nombre": "Teclado Mecánico Redragon", "precio": 150, "stock": 25},
+  {"id": 5, "nombre": "Monitor Samsung 27'' 144Hz", "precio": 980, "stock": 8},
+  {"id": 6, "nombre": "Impresora HP Ink Tank 315", "precio": 650, "stock": 12},
+  {"id": 7, "nombre": "Disco SSD Kingston 480GB", "precio": 180, "stock": 40},
+  {"id": 8, "nombre": "Router TP-Link Archer C6", "precio": 160, "stock": 18},
+  {"id": 9, "nombre": "Cámara de Seguridad Hikvision 1080p", "precio": 140, "stock": 20},
+  {"id": 10, "nombre": "Panel Solar 550W Monocristalino", "precio": 850, "stock": 6},
+  {"id": 11, "nombre": "Controlador de Carga Solar 30A", "precio": 120, "stock": 14},
+  {"id": 12, "nombre": "UPS CDP 1200VA", "precio": 420, "stock": 10},
+  {"id": 13, "nombre": "Switch Gigabit 8 Puertos", "precio": 110, "stock": 22},
+  {"id": 14, "nombre": "Cable UTP Cat6 (305m)", "precio": 350, "stock": 5},
+  {"id": 15, "nombre": "Power Bank Xiaomi 20,000mAh", "precio": 130, "stock": 28}
+]
